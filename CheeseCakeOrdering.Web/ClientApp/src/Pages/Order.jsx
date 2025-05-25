@@ -3,7 +3,6 @@ import axios from 'axios';
 import { produce } from 'immer';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { useNavigate } from 'react-router-dom';
-import dayjs from 'dayjs'
 import OrderForm from '../components/OrderForm';
 import OrderPreview from '../components/OrderPreview';
 
