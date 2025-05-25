@@ -1,0 +1,6 @@
+@CheeseCakeOrdering.Web_HostAddress = http://localhost:5015
+
+GET {{CheeseCakeOrdering.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
